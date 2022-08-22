@@ -17,5 +17,5 @@ Bifurca (fork) y clona (clone) este lab en tu entorno local. Navega a su directo
 
 1. Dentro del `body` escribe el elemento `div`.
 2. Entre el elemento `div` agrega la etiqueta `h1` de apertura y cierre y escribe un texto entre las etiquetas.
-3. Despues del elemento `h1` agrega la etiqueta `p` que habias escrito en el ejercicio anterior.
+3. Después del elemento `h1` agrega la etiqueta `p` que previamente añadiste en el ejercicio anterior.
 
